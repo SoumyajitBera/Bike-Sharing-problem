@@ -49,11 +49,12 @@ This repository focuses on predicting bike rental demand for Washington, D.C.’
 
 
 2. **Set Up a Virtual Environment**
- -- Windows
+
+    * Windows
     python -m venv .venv
     .\.venv\Scripts\activate
 
- -- MAC/LINUX
+    * MAC/LINUX
 
     python3 -m venv .venv
     source .venv/bin/activate
