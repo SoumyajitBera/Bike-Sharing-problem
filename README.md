@@ -1,0 +1,2 @@
+### Bike Sharing Demand Forecasting using Linear Regression
+This repository contains a project focused on forecasting bike rental demand for Washington, D.C.’s Capital Bikeshare program. The project leverages historical bike sharing data and weather conditions to build a linear regression model that predicts bike rentals. The repository includes an interactive Jupyter Notebook with detailed data analysis and modeling, as well as a document explaining the assignment and key concepts behind the methodology.
