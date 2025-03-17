@@ -51,16 +51,16 @@ This repository focuses on predicting bike rental demand for Washington, D.C.’
 2. **Set Up a Virtual Environment**
 
     * Windows <br>
-    python -m venv .venv <br>
-    .\.venv\Scripts\activate
+    <code>python -m venv .venv <code><br>
+   <code> .\.venv\Scripts\activate<code>
 
     * MAC/LINUX<br>
-    python3 -m venv .venv <br>
-    source .venv/bin/activate
+   <code> python3 -m venv .venv<code> <br>
+   <code> source .venv/bin/activate <code>
 
 3. **Install Dependencies**
 
-    pip install -r requirements.txt
+   <code> pip install -r requirements.txt <code>
 
 4. **Project Structure**
 
