@@ -43,5 +43,35 @@ This repository focuses on predicting bike rental demand for Washington, D.C.’
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Bike-Sharing-Problem.git
+   git clone https://github.com/SoumyajitBera/Bike-Sharing-problem.git
    cd Bike-Sharing-Problem
+
+
+
+2. **Set Up a Virtual Environment**
+ -- Windows
+    python -m venv .venv
+    .\.venv\Scripts\activate
+
+ -- MAC/LINUX
+
+    python3 -m venv .venv
+    source .venv/bin/activate
+
+3. **Install Dependencies**
+
+    pip install -r requirements.txt
+
+4. **Project Structure**
+
+
+Bike-Sharing-Problem/
+├── .venv/                   # Virtual environment folder
+├── Data/                    # Dataset(s)
+├── Bike_sharing.ipynb       # Jupyter Notebook with analysis
+├── README.md                # This documentation
+└── requirements.txt         # Python dependencies
+
+
+
+    
