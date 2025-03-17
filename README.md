@@ -63,17 +63,7 @@ This repository focuses on predicting bike rental demand for Washington, D.C.’
 
 3. **Install Dependencies**
     ```bash
-   pip install -r requirements.txt 
-
-4. **Project Structure**
-
-
-Bike-Sharing-Problem/
-├── .venv/                   # Virtual environment folder
-├── Data/                    # Dataset(s)
-├── Bike_sharing.ipynb       # Jupyter Notebook with analysis
-├── README.md                # This documentation
-└── requirements.txt         # Python dependencies
+   pip install -r requirements.txt
 
 
 
